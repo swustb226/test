@@ -59,6 +59,7 @@ if ($.isNode()) {
 const JD_API_HOST = "https://api.m.jd.com/client.action";
 let authorPin='7338758317f7df3c98153ba5e97ec8490f296a206a12473f57d63d95f3be0534';
 $.helpAuthor=false;
+$.token="AOZKXX6CJMZ3PUXNWVN5NDLAYBO2C";
 
 
 
