@@ -14,10 +14,10 @@ MyFruit4='80fe65b8de084327a8a111987ebb448c'
 MyFruit5='bd45d1234bcc40fbae628b540d7a772b'
 MyFruit6='bcd975d2ac204cad853834e70be313fa'
 MyFruit7='5a757a86d26e45afa9c16315d092009a'
-MyFruit8='f31f26f98d04459abbb83bd73c540d45'
+MyFruit8='e58c862f7201472bb7b6f842e8e6b7b7'
 MyFruit9='2319040b06964a8cb867c3e1d64dcd56'
 MyFruit10='3354f8f3569d4250a31669e953a402bc'
-MyFruit11='e58c862f7201472bb7b6f842e8e6b7b7'
+MyFruit11='f31f26f98d04459abbb83bd73c540d45'
 
 ForOtherFruit1="${MyFruit2}@${MyFruit3}@${MyFruit4}@${MyFruit5}@${MyFruit6}@${MyFruit7}@${MyFruit8}@${MyFruit9}@${MyFruit10}@${MyFruit11}"
 ForOtherFruit2="${MyFruit1}@${MyFruit3}@${MyFruit4}@${MyFruit5}@${MyFruit6}@${MyFruit7}@${MyFruit8}@${MyFruit9}@${MyFruit10}@${MyFruit11}"
@@ -39,10 +39,10 @@ MyPet4='MTEyNDI1MTEyMDAwMDAwMDA0NzQ3OTI2MQ=='
 MyPet5='MTE1NDUyMjEwMDAwMDAwMzg4NzQxODM='
 MyPet6='MTEyNTEyNTE1MDAwMDAwMDA0NzIzMDY4OQ=='
 MyPet7='MTE0MDE2NjI5MDAwMDAwMDQ3MjM2MDQ3'
-MyPet8='MTEyNTEyNTE1MDAwMDAwMDA0NzIwODkyMw=='
+MyPet8='MTE0MDkyMjIwMDAwMDAwNDc1MjA4Mzk='
 MyPet9='MTE0MDE2NjI5MDAwMDAwMDQ3Njg2MDIz'
 MyPet10='MTEyNjE4NjQ2MDAwMDAwMDUwMjE0Mzg3'
-MyPet11='MTE0MDkyMjIwMDAwMDAwNDc1MjA4Mzk='
+MyPet11='MTEyNTEyNTE1MDAwMDAwMDA0NzIwODkyMw=='
 
 ForOtherPet1="${MyPet2}@${MyPet3}@${MyPet4}@${MyPet5}@${MyPet6}@${MyPet7}@${MyPet8}@${MyPet9}@${MyPet10}@${MyPet11}"
 ForOtherPet2="${MyPet1}@${MyPet3}@${MyPet4}@${MyPet5}@${MyPet6}@${MyPet7}@${MyPet8}@${MyPet9}@${MyPet10}@${MyPet11}"
@@ -64,10 +64,10 @@ MyBean4='olmijoxgmjutzge4y4ekigl4cj7jwjggrlaipca'
 MyBean5='tjnkzbu63qd6vhtjipbro5gdwm'
 MyBean6='olmijoxgmjuty2equrg3r5ue5qde6ungvzktv4q'
 MyBean7='4npkonnsy7xi2nfotbabgq2bktru3jyrzibdpri'
-MyBean8='2o4llyhzwjoqw2nvurvyuiguhe'
+MyBean8='igefhjvuw6xvtypq5dviom7sfswaqtlf4gcsvea'
 MyBean9='o3lodafomtx2rrzqf7sdmpwc42olettlf7pcdzi'
 MyBean10='xyymddxmc3bvyoxm4wwtbgocuzb7dth7z5bdqqy'
-MyBean11='igefhjvuw6xvtypq5dviom7sfswaqtlf4gcsvea'
+MyBean11='2o4llyhzwjoqw2nvurvyuiguhe'
 
 ForOtherBean1="${MyBean2}@${MyBean3}@${MyBean4}@${MyBean5}@${MyBean6}@${MyBean7}@${MyBean8}@${MyBean9}@${MyBean10}@${MyBean11}"
 ForOtherBean2="${MyBean1}@${MyBean3}@${MyBean4}@${MyBean5}@${MyBean6}@${MyBean7}@${MyBean8}@${MyBean9}@${MyBean10}@${MyBean11}"
@@ -88,11 +88,11 @@ MyDreamFactory3=''
 MyDreamFactory4='oKqdzo0XFvNsOFxnNLHqvw=='
 MyDreamFactory5='errKrYrQyRNUNf_rbTjSZQ=='
 MyDreamFactory6='Rdw32yAXfX-6GFctp6cu1A=='
-MyDreamFactory7='jL_9cFojiorAUHXtgRljOA=='
-MyDreamFactory8='VjeL0zYsCgMVXuSWlZ-05g=='
+MyDreamFactory7=''
+MyDreamFactory8=''
 MyDreamFactory9='jq1WVMM_Nz2ROFvLuKE_bQ=='
 MyDreamFactory10='Zwgj4nrDCmabrgPL6HqpJg=='
-MyDreamFactory11=''
+MyDreamFactory11='VjeL0zYsCgMVXuSWlZ-05g=='
 
 ForOtherDreamFactory1="${MyDreamFactory2}@${MyDreamFactory3}@${MyDreamFactory4}@${MyDreamFactory5}@${MyDreamFactory6}@${MyDreamFactory7}@${MyDreamFactory8}@${MyDreamFactory9}@${MyDreamFactory10}@${MyDreamFactory11}"
 ForOtherDreamFactory2="${MyDreamFactory1}@${MyDreamFactory3}@${MyDreamFactory4}@${MyDreamFactory5}@${MyDreamFactory6}@${MyDreamFactory7}@${MyDreamFactory8}@${MyDreamFactory9}@${MyDreamFactory10}@${MyDreamFactory11}"
@@ -114,10 +114,10 @@ MyJdFactory4='T0225KkcRhtM9VbQKEn9k6EJdQCjVWnYaS5kRrbA'
 MyJdFactory5='T011u_SkwpDBTtUCjVWnYaS5kRrbA'
 MyJdFactory6='T0225KkcRhlK9FPUdRv8kvIJdwCjVWnYaS5kRrbA'
 MyJdFactory7='T0225KkcRx8Z8VPSck_1kKVZdACjVWnYaS5kRrbA'
-MyJdFactory8='T012_bo2A1pL91bRCjVWnYaS5kRrbA'
+MyJdFactory8=''
 MyJdFactory9='T018Z07SQR4d8FXUJhj3nQCjVWnYaS5kRrbA'
 MyJdFactory10='T0199KUiHklTrRGAdUT1nP8CjVWnYaS5kRrbA'
-MyJdFactory11=''
+MyJdFactory11='T012_bo2A1pL91bRCjVWnYaS5kRrbA'
 
 ForOtherJdFactory1="${MyJdFactory2}@${MyJdFactory3}@${MyJdFactory4}@${MyJdFactory5}@${MyJdFactory6}@${MyJdFactory7}@${MyJdFactory8}@${MyJdFactory9}@${MyJdFactory10}@${MyJdFactory11}"
 ForOtherJdFactory2="${MyJdFactory1}@${MyJdFactory3}@${MyJdFactory4}@${MyJdFactory5}@${MyJdFactory6}@${MyJdFactory7}@${MyJdFactory8}@${MyJdFactory9}@${MyJdFactory10}@${MyJdFactory11}"
@@ -135,7 +135,29 @@ ForOtherJdFactory11="${MyJdFactory1}@${MyJdFactory2}@${MyJdFactory3}@${MyJdFacto
 ## 从日志中未找到任何互助码
 
 ## 疯狂的JOY：
-## 未运行过 chinnkarahoi_jd_scripts_crazy_joy.js 脚本，未产生日志
+MyJoy1='5lq1wcfowEyhd7DJe_8q8g=='
+MyJoy2='hnzJILx8zZsekjODVYvi1g=='
+MyJoy3='gH4XtjEAYZmcRM3EXSEfQA=='
+MyJoy4='tlV9LBA_Iu0Smf7_Ke9NU6t9zd5YaBeE'
+MyJoy5='5ukcLcVUK8urfc3eWGgXhA=='
+MyJoy6='3MRnSAyEia35ZAMkrq9dV6t9zd5YaBeE'
+MyJoy7='JX4P_35eX70ktbEJrsCH56t9zd5YaBeE'
+MyJoy8='o06c4RJV4Akvb08K9TmkMw=='
+MyJoy9='abMo6GTezB3mxS3zF_JCoQ=='
+MyJoy10='24A2jB1hXh3fYcQT2t4vKw=='
+MyJoy11='NIZJiP0WebfGK4o1yCsXmg=='
+
+ForOtherJoy1="${MyJoy2}@${MyJoy3}@${MyJoy4}@${MyJoy5}@${MyJoy6}@${MyJoy7}@${MyJoy8}@${MyJoy9}@${MyJoy10}@${MyJoy11}"
+ForOtherJoy2="${MyJoy1}@${MyJoy3}@${MyJoy4}@${MyJoy5}@${MyJoy6}@${MyJoy7}@${MyJoy8}@${MyJoy9}@${MyJoy10}@${MyJoy11}"
+ForOtherJoy3="${MyJoy1}@${MyJoy2}@${MyJoy4}@${MyJoy5}@${MyJoy6}@${MyJoy7}@${MyJoy8}@${MyJoy9}@${MyJoy10}@${MyJoy11}"
+ForOtherJoy4="${MyJoy1}@${MyJoy2}@${MyJoy3}@${MyJoy5}@${MyJoy6}@${MyJoy7}@${MyJoy8}@${MyJoy9}@${MyJoy10}@${MyJoy11}"
+ForOtherJoy5="${MyJoy1}@${MyJoy2}@${MyJoy3}@${MyJoy4}@${MyJoy6}@${MyJoy7}@${MyJoy8}@${MyJoy9}@${MyJoy10}@${MyJoy11}"
+ForOtherJoy6="${MyJoy1}@${MyJoy2}@${MyJoy3}@${MyJoy4}@${MyJoy5}@${MyJoy7}@${MyJoy8}@${MyJoy9}@${MyJoy10}@${MyJoy11}"
+ForOtherJoy7="${MyJoy1}@${MyJoy2}@${MyJoy3}@${MyJoy4}@${MyJoy5}@${MyJoy6}@${MyJoy8}@${MyJoy9}@${MyJoy10}@${MyJoy11}"
+ForOtherJoy8="${MyJoy1}@${MyJoy2}@${MyJoy3}@${MyJoy4}@${MyJoy5}@${MyJoy6}@${MyJoy7}@${MyJoy9}@${MyJoy10}@${MyJoy11}"
+ForOtherJoy9="${MyJoy1}@${MyJoy2}@${MyJoy3}@${MyJoy4}@${MyJoy5}@${MyJoy6}@${MyJoy7}@${MyJoy8}@${MyJoy10}@${MyJoy11}"
+ForOtherJoy10="${MyJoy1}@${MyJoy2}@${MyJoy3}@${MyJoy4}@${MyJoy5}@${MyJoy6}@${MyJoy7}@${MyJoy8}@${MyJoy9}@${MyJoy11}"
+ForOtherJoy11="${MyJoy1}@${MyJoy2}@${MyJoy3}@${MyJoy4}@${MyJoy5}@${MyJoy6}@${MyJoy7}@${MyJoy8}@${MyJoy9}@${MyJoy10}"
 
 ## 京喜农场：
 MyJxnc1='{"smp":"d309b46855a71bd7c43d4bb0cfe872a1","active":"jdnc_1_4yuantaimang210422_2","joinnum":1}'
@@ -163,7 +185,29 @@ ForOtherJxnc10="${MyJxnc1}@${MyJxnc2}@${MyJxnc3}@${MyJxnc4}@${MyJxnc5}@${MyJxnc6
 ForOtherJxnc11="${MyJxnc1}@${MyJxnc2}@${MyJxnc3}@${MyJxnc4}@${MyJxnc5}@${MyJxnc6}@${MyJxnc7}@${MyJxnc8}@${MyJxnc9}@${MyJxnc10}"
 
 ## 口袋书店：
-## 从日志中未找到任何互助码
+MyBookShop1='326a81fda01b497da02e26223761a17f'
+MyBookShop2=''
+MyBookShop3=''
+MyBookShop4=''
+MyBookShop5=''
+MyBookShop6=''
+MyBookShop7=''
+MyBookShop8=''
+MyBookShop9=''
+MyBookShop10=''
+MyBookShop11=''
+
+ForOtherBookShop1="${MyBookShop2}@${MyBookShop3}@${MyBookShop4}@${MyBookShop5}@${MyBookShop6}@${MyBookShop7}@${MyBookShop8}@${MyBookShop9}@${MyBookShop10}@${MyBookShop11}"
+ForOtherBookShop2="${MyBookShop1}@${MyBookShop3}@${MyBookShop4}@${MyBookShop5}@${MyBookShop6}@${MyBookShop7}@${MyBookShop8}@${MyBookShop9}@${MyBookShop10}@${MyBookShop11}"
+ForOtherBookShop3="${MyBookShop1}@${MyBookShop2}@${MyBookShop4}@${MyBookShop5}@${MyBookShop6}@${MyBookShop7}@${MyBookShop8}@${MyBookShop9}@${MyBookShop10}@${MyBookShop11}"
+ForOtherBookShop4="${MyBookShop1}@${MyBookShop2}@${MyBookShop3}@${MyBookShop5}@${MyBookShop6}@${MyBookShop7}@${MyBookShop8}@${MyBookShop9}@${MyBookShop10}@${MyBookShop11}"
+ForOtherBookShop5="${MyBookShop1}@${MyBookShop2}@${MyBookShop3}@${MyBookShop4}@${MyBookShop6}@${MyBookShop7}@${MyBookShop8}@${MyBookShop9}@${MyBookShop10}@${MyBookShop11}"
+ForOtherBookShop6="${MyBookShop1}@${MyBookShop2}@${MyBookShop3}@${MyBookShop4}@${MyBookShop5}@${MyBookShop7}@${MyBookShop8}@${MyBookShop9}@${MyBookShop10}@${MyBookShop11}"
+ForOtherBookShop7="${MyBookShop1}@${MyBookShop2}@${MyBookShop3}@${MyBookShop4}@${MyBookShop5}@${MyBookShop6}@${MyBookShop8}@${MyBookShop9}@${MyBookShop10}@${MyBookShop11}"
+ForOtherBookShop8="${MyBookShop1}@${MyBookShop2}@${MyBookShop3}@${MyBookShop4}@${MyBookShop5}@${MyBookShop6}@${MyBookShop7}@${MyBookShop9}@${MyBookShop10}@${MyBookShop11}"
+ForOtherBookShop9="${MyBookShop1}@${MyBookShop2}@${MyBookShop3}@${MyBookShop4}@${MyBookShop5}@${MyBookShop6}@${MyBookShop7}@${MyBookShop8}@${MyBookShop10}@${MyBookShop11}"
+ForOtherBookShop10="${MyBookShop1}@${MyBookShop2}@${MyBookShop3}@${MyBookShop4}@${MyBookShop5}@${MyBookShop6}@${MyBookShop7}@${MyBookShop8}@${MyBookShop9}@${MyBookShop11}"
+ForOtherBookShop11="${MyBookShop1}@${MyBookShop2}@${MyBookShop3}@${MyBookShop4}@${MyBookShop5}@${MyBookShop6}@${MyBookShop7}@${MyBookShop8}@${MyBookShop9}@${MyBookShop10}"
 
 ## 签到领现金：
 MyCash1='ZEc1bOy7YP8n8g'
@@ -173,10 +217,10 @@ MyCash4='eU9YaunnZv4h-T3czCUQ1w'
 MyCash5='JhLg7mJq3X0'
 MyCash6='eU9YauvhZ_slpG_dzXYQ1Q'
 MyCash7='eU9Ya-2yYvsjozvUzyFA1g'
-MyCash8='YFxyL6jgZP4g'
+MyCash8='eU9YLKnMPqFCmC6QlSBK'
 MyCash9='-qiWbey2Y_0l92zWwg'
 MyCash10='aUNmMrv4PrlxpDDUw3s'
-MyCash11='eU9YLKnMPqFCmC6QlSBK'
+MyCash11='YFxyL6jgZP4g'
 
 ForOtherCash1="${MyCash2}@${MyCash3}@${MyCash4}@${MyCash5}@${MyCash6}@${MyCash7}@${MyCash8}@${MyCash9}@${MyCash10}@${MyCash11}"
 ForOtherCash2="${MyCash1}@${MyCash3}@${MyCash4}@${MyCash5}@${MyCash6}@${MyCash7}@${MyCash8}@${MyCash9}@${MyCash10}@${MyCash11}"
@@ -198,10 +242,10 @@ MySgmh4='T0225KkcRhtM9VbQKEn9k6EJdQCjVQmoaT5kRrbA'
 MySgmh5='T011u_SkwpDBTtUCjVQmoaT5kRrbA'
 MySgmh6='T0225KkcRhlK9FPUdRv8kvIJdwCjVQmoaT5kRrbA'
 MySgmh7=''
-MySgmh8='T012_bo2A1pL91bRCjVQmoaT5kRrbA'
+MySgmh8=''
 MySgmh9='T018Z07SQR4d8FXUJhj3nQCjVQmoaT5kRrbA'
 MySgmh10='T0199KUiHklTrRGAdUT1nP8CjVQmoaT5kRrbA'
-MySgmh11=''
+MySgmh11='T012_bo2A1pL91bRCjVQmoaT5kRrbA'
 
 ForOtherSgmh1="${MySgmh2}@${MySgmh3}@${MySgmh4}@${MySgmh5}@${MySgmh6}@${MySgmh7}@${MySgmh8}@${MySgmh9}@${MySgmh10}@${MySgmh11}"
 ForOtherSgmh2="${MySgmh1}@${MySgmh3}@${MySgmh4}@${MySgmh5}@${MySgmh6}@${MySgmh7}@${MySgmh8}@${MySgmh9}@${MySgmh10}@${MySgmh11}"
@@ -216,17 +260,17 @@ ForOtherSgmh10="${MySgmh1}@${MySgmh2}@${MySgmh3}@${MySgmh4}@${MySgmh5}@${MySgmh6
 ForOtherSgmh11="${MySgmh1}@${MySgmh2}@${MySgmh3}@${MySgmh4}@${MySgmh5}@${MySgmh6}@${MySgmh7}@${MySgmh8}@${MySgmh9}@${MySgmh10}"
 
 ## 京喜财富岛：
-MyCfd1='62DCF7BDDB18E72CF6814567690F6C7DC0042FE9C2D40DB219B92341443DC098'
-MyCfd2='891C80469585F4FB42789B5D4598C680B51ECE1B80CB2D616040380E01AB2C7E'
-MyCfd3='4C5147FCAAA974C583BBA1FA74C2AC3F02BF9DC07B403EBB8D66FB41F3CBB46E'
-MyCfd4='E47A2AD037716BB70A05ADC8F53C5E474B9CB31D634744BE24146CE636C096EF'
-MyCfd5='D4AB6A8FC701B17DDB79FB022AFFC66666202EEDA6D8E5781405C187F82DAE11'
-MyCfd6='7C64AF3CF673889DECFFBE556F7AE22ABBA26280B8C2FF868E8AFEBB13D9BD40'
-MyCfd7='A2D6B1D7764649F1A237082001AB286EAFD7879969871E519929C0B826857C78'
-MyCfd8='AA28D284DF88A6D010BB1E4C1E0F832AAFAD5ACB67C3885D0BC19B2B2EDC9E8F'
-MyCfd9='8592FEB77F0C26B7D2F393F2138ADB42A6B78FB1CFCC499082455F8419FCC14B'
-MyCfd10='73B877487F535509460B0378B74EE66197940D642CF5DB15CA29F682F27ABD73'
-MyCfd11='1FF3DD71ADFDDCDF8848F1001CE22F694594AFAA93F9892AFC5907C6BEA520A2'
+MyCfd1='F370B2DCD7BE94FE7A90C46FC179F4903B5D7C7F91B076631BDB7EEFB3BA2D0A'
+MyCfd2='891C80469585F4FB42789B5D4598C68023DCDC0491C310708E7D0C304ECBD4D2'
+MyCfd3='4C5147FCAAA974C583BBA1FA74C2AC3F040D2365F6473E52446C24DBD80FDB97'
+MyCfd4='E47A2AD037716BB70A05ADC8F53C5E4745752EAAFA3730D211FA4DF6ABB861D0'
+MyCfd5='C2BC547A3232596E87545F5CC021B734E4FFB6B3F6484462FA6DD0370B44494F'
+MyCfd6='7C64AF3CF673889DECFFBE556F7AE22A0098585372EB3C9FE279614AD5DCF16F'
+MyCfd7='A2D6B1D7764649F1A237082001AB286EC5309CEC46B2750B54240653B94053AE'
+MyCfd8='1FF3DD71ADFDDCDF8848F1001CE22F696E79F5782825E0613225C23F1C865346'
+MyCfd9='8592FEB77F0C26B7D2F393F2138ADB4200A9135CA3112ED91C45908D45057EDC'
+MyCfd10='73B877487F535509460B0378B74EE66179552D1855E044BC9DDC4152A88BF594'
+MyCfd11='2804B72EE9E69A66E2BA7DDB7E670949EB5FDED384D0C55DFE5D21DA2B940F18'
 
 ForOtherCfd1="${MyCfd2}@${MyCfd3}@${MyCfd4}@${MyCfd5}@${MyCfd6}@${MyCfd7}@${MyCfd8}@${MyCfd9}@${MyCfd10}@${MyCfd11}"
 ForOtherCfd2="${MyCfd1}@${MyCfd3}@${MyCfd4}@${MyCfd5}@${MyCfd6}@${MyCfd7}@${MyCfd8}@${MyCfd9}@${MyCfd10}@${MyCfd11}"
@@ -248,10 +292,10 @@ MyHealth4='T0225KkcRhtM9VbQKEn9k6EJdQCjVfnoaW5kRrbA'
 MyHealth5='T011u_SkwpDBTtUCjVfnoaW5kRrbA'
 MyHealth6='T0225KkcRhlK9FPUdRv8kvIJdwCjVfnoaW5kRrbA'
 MyHealth7='T0225KkcRx8Z8VPSck_1kKVZdACjVfnoaW5kRrbA'
-MyHealth8='T012_bo2A1pL91bRCjVfnoaW5kRrbA'
+MyHealth8=''
 MyHealth9='T018Z07SQR4d8FXUJhj3nQCjVfnoaW5kRrbA'
 MyHealth10='T0199KUiHklTrRGAdUT1nP8CjVfnoaW5kRrbA'
-MyHealth11=''
+MyHealth11='T012_bo2A1pL91bRCjVfnoaW5kRrbA'
 
 ForOtherHealth1="${MyHealth2}@${MyHealth3}@${MyHealth4}@${MyHealth5}@${MyHealth6}@${MyHealth7}@${MyHealth8}@${MyHealth9}@${MyHealth10}@${MyHealth11}"
 ForOtherHealth2="${MyHealth1}@${MyHealth3}@${MyHealth4}@${MyHealth5}@${MyHealth6}@${MyHealth7}@${MyHealth8}@${MyHealth9}@${MyHealth10}@${MyHealth11}"
