@@ -1,7 +1,7 @@
 const $ = new Env('燃动夏季');
 const notify = $.isNode() ? require('./sendNotify') : '';
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
-const MovementFaker = require('./star261_jd_MovementFaker.js');
+const MovementFaker = require('.raw/MovementFaker.js');
 $.inviteList = [];
 let uuid = 8888;
 let cookiesArr = [];
